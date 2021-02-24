@@ -1,6 +1,6 @@
 # Comments
 
-  Color = #187800
+  Color = #367d18
   
 # Strings
 
