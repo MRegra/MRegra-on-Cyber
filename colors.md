@@ -29,3 +29,13 @@
 # Arguments
 
   Color = #8ed1fc
+  
+# Terminal Main Name
+  
+  Color = #40ff00
+  
+# Terminal Machine Name
+
+  Color = #7accff
+  
+
